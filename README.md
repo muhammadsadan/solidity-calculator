@@ -19,7 +19,7 @@ This project demonstrates basic arithmetic operations on the Ethereum blockchain
 
 🧩 Technologies Used
 
-Solidity (0.8.17)
+<h2>Solidity (0.8.17)</h2>
 
 Remix IDE
 
@@ -72,5 +72,6 @@ Pull requests are welcome.
 For major changes, please open an issue first to discuss what you want to improve.
 
 📜 License
+
 
 This project is licensed under the MIT License.
