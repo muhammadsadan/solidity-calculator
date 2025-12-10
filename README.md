@@ -55,7 +55,7 @@ Open Remix IDE
 
 Paste the contract code into a new .sol file
 
-Compile using Solidity compiler (0.8.x)
+Compile using Solidity compiler (0.8.17)
 
 Deploy using Remix VM or your preferred network
 
@@ -75,4 +75,5 @@ For major changes, please open an issue first to discuss what you want to improv
 
 
 This project is licensed under the MIT License.
+
 
