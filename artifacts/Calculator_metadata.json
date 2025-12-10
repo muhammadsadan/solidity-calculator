@@ -115,7 +115,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"blank.sol": "Calculator"
+			"solidity-calculator.sol": "Calculator"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -129,7 +129,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"blank.sol": {
+		"solidity-calculator.sol": {
 			"keccak256": "0x3917c68f7a210c7ee72e2cf2feb1797d33d2946fde963a9a0b1addc5c2ba4c96",
 			"license": "MIT",
 			"urls": [
