@@ -62,9 +62,9 @@ Deploy using Remix VM or your preferred network
 Call functions from the deployed contract
 
 📁 Project Structure
-📂 solidity-calculator
- ├── Calculator.sol
- └── README.md
+<br>📂 solidity-calculator
+<br>├── Calculator.sol
+<br> └── README.md
 
 🤝 Contributing
 
@@ -75,3 +75,4 @@ For major changes, please open an issue first to discuss what you want to improv
 
 
 This project is licensed under the MIT License.
+
